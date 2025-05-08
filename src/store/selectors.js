@@ -1,0 +1,1 @@
+export const selectCrypto = state => state.crypto;
